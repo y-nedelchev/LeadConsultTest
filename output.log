@@ -1,0 +1,11 @@
+2023-06-07 10:35:24,469 INFO  [main] Initializing WebDriver
+2023-06-07 10:35:28,652 INFO  [main] Initializing WebDriver
+2023-06-07 10:35:28,652 INFO  [main] Initializing WebDriver
+2023-06-07 10:35:28,652 INFO  [main] Initializing WebDriver
+2023-06-07 10:35:28,652 INFO  [main] Initializing WebDriver
+2023-06-07 10:35:28,652 INFO  [main] Initializing WebDriver
+2023-06-07 10:35:28,653 INFO  [main] Initializing WebDriver
+2023-06-07 10:35:28,692 INFO  [main] Clicking on element contact.us
+2023-06-07 10:35:30,177 INFO  [main] Clicking on element policy.checkbox
+2023-06-07 10:35:30,233 INFO  [main] Clicking on element send.button
+2023-06-07 10:35:30,835 INFO  [main] Asserting element is present

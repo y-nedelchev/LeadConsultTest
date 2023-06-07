@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/ivang/Desktop/Final/zionalphaqaproject/AutomatedTestsFramework/src/test/java/testCases"><classes><class name="testCases.HealthyFoodTests"><methods><include name="navigateToHome_UsingNavigation"/></methods></class></classes></test></suite>
